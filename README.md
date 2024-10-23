@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16502913/hieudinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16502913/hieudinet" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/devhieu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devhieu/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16502913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16502913" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devhieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devhieu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
