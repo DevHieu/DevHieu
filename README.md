@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hieudd2090@gmail.com**
 
-- 📰 My portfolio website ar **https://devhieufolio.vercel.app**
+- 📰 My portfolio website at **https://devhieufolio.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
